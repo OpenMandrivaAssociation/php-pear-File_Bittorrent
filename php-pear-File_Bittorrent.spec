@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.0
-Release:	%mkrel 6
+Release:	%mkrel 7
 Summary:	Decode and Encode data in Bittorrent format
 License:	PHP License
 Group:		Development/PHP
